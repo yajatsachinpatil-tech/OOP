@@ -1,4 +1,4 @@
-// code by tanay aranka sycse b 8
+// code by yajat patil sycse b 5
 #include <iostream>
 #include <cmath>
 using namespace std;
